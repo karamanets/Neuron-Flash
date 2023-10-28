@@ -1,7 +1,4 @@
-
-Neuron Flash
-
-Privacy Policy
+Privacy Policy for Neuron Flash App
 
 - We respect your privacy and do not collect personal information such as name, email address, phone number, location or other personal data.
 
