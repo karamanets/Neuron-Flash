@@ -7,4 +7,5 @@ We also do not use mechanisms to track users or collect statistical information 
 
 We value your privacy and do our best to ensure that your use of our application is safe and anonymous.
 
+Please be aware that we have no control over the content posted in the Library. Let's maintain respect by refraining from inappropriate content.
 ___
