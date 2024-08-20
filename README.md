@@ -20,10 +20,8 @@
 
 ___
 
- <!--- typing Screen --->  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=9356A0&width=435&lines=Screens)](https://git.io/typing-svg) 
-  
  <h4 align="center">  
+
   
  <!--- Screens List --->  
 <img src="https://github.com/karamanets/Neuron-Flash/blob/main/Screens/screen1.png" width="150" height="300">  <img src="https://github.com/karamanets/Neuron-Flash/blob/main/Screens/screen2.png" width="150" height="300">   <img src="https://github.com/karamanets/Neuron-Flash/blob/main/Screens/screen3.png" width="150" height="300">  <img src="https://github.com/karamanets/Neuron-Flash/blob/main/Screens/screen4.png" width="150" height="300"> 
